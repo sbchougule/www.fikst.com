@@ -1,0 +1,4 @@
+User-agent: SiteAuditBot
+Disallow: /wp-admin/
+Allow: /
+Sitemap: https://www.fikst.com/sitemap_index.xml

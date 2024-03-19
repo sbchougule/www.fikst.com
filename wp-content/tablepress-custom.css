@@ -1,0 +1,5 @@
+.tablepress tfoot th,
+.tablepress thead th {
+	background-color: #927020;
+	color: #fff;
+}

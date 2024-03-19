@@ -1,0 +1,87 @@
+/*Responsive Text Size*/
+html {
+  @include media-breakpoint-down(sm) {
+    font-size: 88%;
+  }
+}
+
+body {
+
+  -webkit-font-smoothing: antialiased;
+  word-break: break-word;
+  font-size: $body-font-size;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  
+}
+
+
+h1 {
+  font-weight: 700;
+}
+
+h2,
+.h2 {
+  font-size: $h2-font-size;
+  font-weight: 600;
+}
+
+h3,
+.h3 {
+  font-size: $h3-font-size;
+  font-weight: 500;
+}
+
+h4,
+.h4 {
+  font-size: $h4-font-size;
+  font-weight: 400;
+}
+
+h5,
+.h5 {
+  color: $dark-grey;
+  font-size: $h5-font-size;
+  font-weight: 500;
+}
+
+h6,
+.h6 {
+  color: $dark-grey;
+  font-size: $h6-font-size;
+  font-weight: 600;
+}
+
+p {
+  
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+*[tabindex="0"]:not(input),
+input[type="submit"],
+button,
+a {
+  &:focus {
+    outline: none;
+  }
+
+  &:focus:not(:active):not(:hover) {
+    outline: 2px dashed red;
+    outline-offset: 1px;
+  }
+}
+
+a {
+  &:focus {
+    color: $link-hover-color;
+  }
+}

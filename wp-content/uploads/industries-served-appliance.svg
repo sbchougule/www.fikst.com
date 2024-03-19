@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="67" height="66.999" viewBox="0 0 67 66.999">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="noun-electric-appliance-4810398-FFFFFF" transform="translate(0.008 0.004)">
+    <path id="Path_665" data-name="Path 665" class="cls-1" d="M7.843,461.72H.973a.981.981,0,0,0-.981.981v5.561H7.843Z" transform="translate(0 -435.945)"></path>
+    <path id="Path_666" data-name="Path 666" class="cls-1" d="M259.83,773.27a6.87,6.87,0,1,1-6.87-6.87,6.87,6.87,0,0,1,6.87,6.87" transform="translate(-232.358 -723.613)"></path>
+    <path id="Path_667" data-name="Path 667" class="cls-1" d="M186.573,717.666a10.808,10.808,0,1,0-7.631-3.166,10.8,10.8,0,0,0,7.631,3.166Zm0-19.629a8.844,8.844,0,1,1-6.243,2.59,8.834,8.834,0,0,1,6.243-2.59Z" transform="translate(-165.971 -657.214)"></path>
+    <path id="Path_668" data-name="Path 668" class="cls-1" d="M0,645.773a.981.981,0,0,0,.981.981H40.236a.981.981,0,0,0,.981-.981V614.04H0Zm20.61-29.116a12.774,12.774,0,1,1-9.018,3.741,12.759,12.759,0,0,1,9.018-3.741Z" transform="translate(-0.005 -579.76)"></path>
+    <path id="Path_669" data-name="Path 669" class="cls-1" d="M206.2,461.72H175.78v6.543h31.406V462.7a.981.981,0,0,0-.981-.981Zm-10.469,4.253h-1.309a.981.981,0,0,1,0-1.963h1.309a.981.981,0,0,1,0,1.963Zm6.543,0H200.97a.981.981,0,1,1,0-1.963h1.309a.981.981,0,0,1,0,1.963Z" transform="translate(-165.974 -435.945)"></path>
+    <path id="Path_670" data-name="Path 670" class="cls-1" d="M773.44,547.27h23.816v5.889H773.44Z" transform="translate(-730.265 -516.718)"></path>
+    <path id="Path_671" data-name="Path 671" class="cls-1" d="M587.814,0H559.026a3.6,3.6,0,0,0-3.6,3.6V23.812h9.225a2.947,2.947,0,0,1,2.944,2.944v1.832h23.816V3.595a3.6,3.6,0,0,0-3.6-3.6Zm-1.636,20.185a.981.981,0,1,1-1.963,0V12.33a.981.981,0,1,1,1.963,0Z" transform="translate(-524.424)"></path>
+    <path id="Path_672" data-name="Path 672" class="cls-1" d="M770.585,715.476a2.938,2.938,0,0,1-.169.981H790.8a3.6,3.6,0,0,0,3.6-3.6V687.865H770.585Zm16.619-19.2a.981.981,0,0,1,1.963,0v7.851a.981.981,0,0,1-1.963,0Z" transform="translate(-727.41 -649.463)"></path>
+  </g>
+</svg>

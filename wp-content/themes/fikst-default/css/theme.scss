@@ -1,0 +1,22 @@
+@import 'theme/functions';
+@import "theme/variables";                  // <------- Add your variables into this file. Also add variables to overwrite Bootstrap variables here
+@import 'theme/mixins';
+@import 'theme/vendors';
+@import "assets/bootstrap4";                         // <------- Loads Bootstrap4
+@import "understrap/understrap";  // <------- Loads the UnderStrap defaults. Just a few classes to incorporate BS in WP
+@import "understrap/woocommerce"; // <------- Loads WooCommerce style fixes. Comment out if you aren't using WooCommerce
+
+// Optional files - If you don´t use the corresponding scripts/fonts comment em out
+@import "assets/font-awesome";                           // <------- Font Awesome Icon font
+@import "assets/underscores";                            // <------- Underscores media styles
+@import "assets/animation";  
+
+// Any additional imported files //
+@import 'theme/typography';
+@import "theme/gravity-form";    // <------- Loads some basic styling for gravity form plugin
+@import "theme/headers";
+@import "theme/navigation";  
+@import "theme/buttons"; 
+@import "theme/helper_classes";
+@import "theme/blog"; 
+@import "theme/modules";                       // <------- Add your styles into this file

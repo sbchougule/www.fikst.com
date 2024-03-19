@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="54" viewBox="0 0 80 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.95;
+      }
+    </style>
+  </defs>
+  <path id="noun_industrial_2085479" class="cls-1" d="M87,35.74v-10l-4,4v6H80.5V31.36H51v4.38H40v20H10v24H90v-44ZM19.84,71h-6V65h6Zm14,0h-6V65h6ZM66,34.36H79.5v1.38H66Zm-14,0H65v1.38H52ZM47.84,71h-6V65h6ZM54,48.76H48v-6h6ZM61.84,71h-6V65h6ZM68,48.76H62v-6h6Zm14,0H76v-6h6Z" transform="translate(-10 -25.74)"></path>
+</svg>

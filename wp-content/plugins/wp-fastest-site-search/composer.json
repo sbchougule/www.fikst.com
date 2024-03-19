@@ -1,0 +1,14 @@
+{
+    "name": "expertrec/wp-fastest-site-search",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "new melchizedec",
+            "email": "melchi@expertrec.com"
+        }
+    ],
+    "require": {
+        "sentry/sentry": "^1.0"
+    }
+}
